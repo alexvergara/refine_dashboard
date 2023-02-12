@@ -1,0 +1,8 @@
+/.secrets
+*.old
+*.ori
+*_test*
+
+.env*
+
+*/node_modules
